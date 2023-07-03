@@ -1,0 +1,81 @@
+{
+  "contacts": [
+    {
+      "name": "karthik",
+      "lastname": "S bharadwaj",
+      "fieldofemployment": "back end Developer",
+      "about": "good one",
+      "skills": [
+        ".Net",
+        "php",
+        "sdckjn"
+      ],
+      "id": "diypmCg",
+      "available": true
+    },
+    {
+      "name": "Vikram",
+      "lastname": "A L",
+      "fieldofemployment": "Back End",
+      "about": "efsnefsnefnefoandadoajdoihdqjwdoiqwdjqdjpoiwqjdoijasdoiajsofiadoiuaijddhv9oajdoauhuhadpasmnjidvuha0edjawpodndiuvbaof0a9wjddiuhsdadjaokfniusdbfh9a8fqajpnaiubadjpofjbduohdfpoajdkodnvubviusirhwetrwejsdfhisudgfwdisuadgfishfiousfhslfbousafbjhbsfuysgfiuhiuhfpiHFIUEGFPISGFIHFPIUHSPIFUHIUiuhsfisfishfiuh",
+      "skills": [
+        ".Net",
+        "PHP",
+        "vvugu"
+      ],
+      "available": false,
+      "id": "gwM6uFF"
+    },
+    {
+      "name": "ganesh",
+      "lastname": "shetty",
+      "fieldofemployment": "Full Stack Developer",
+      "about": "nijnnnnwjfpiwjfwrnfpiuuer",
+      "skills": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        ".Net"
+      ],
+      "available": false,
+      "id": "ticTgP0"
+    },
+    {
+      "name": "Shreenidhi",
+      "lastname": "kurdi",
+      "fieldofemployment": "Film Making",
+      "about": "Such a interesting person in all th fields",
+      "skills": [
+        "Camer Man",
+        "Executive Producer",
+        "Assistant Director",
+        "Writer",
+        "Actor"
+      ],
+      "available": false,
+      "id": "2_mEBui"
+    },
+    {
+      "name": "tt",
+      "lastname": "tt",
+      "fieldofemployment": "tt",
+      "about": "tt",
+      "skills": [
+        "tt"
+      ],
+      "available": true,
+      "id": "_lvyy1fuml"
+    },
+    {
+      "name": "123",
+      "lastname": "jj",
+      "fieldofemployment": "jj",
+      "about": "jjjj",
+      "skills": [
+        "jj"
+      ],
+      "available": true,
+      "id": "_n8xcobaoy"
+    }
+  ]
+}
